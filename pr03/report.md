@@ -12,7 +12,7 @@
 
 Поля /etc/passwd
 
-Строка для bob: `bob:x:1001:1001::/home/bob:/bin/bash`
+Строка для bob: bob:x:1001:1001::/home/bob:/bin/bash
 
 Разбор полей:
 1. bob - имя пользователя
